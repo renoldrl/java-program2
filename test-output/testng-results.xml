@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="89" started-at="2019-02-07T08:27:37Z" finished-at="2019-02-07T08:27:37Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="89" started-at="2019-02-07T08:27:37Z" finished-at="2019-02-07T08:27:37Z">
+      <class name="testNGFrameWork.Annotation">
+        <test-method status="PASS" signature="cookies()[pri:0, instance:testNGFrameWork.Annotation@48eff760]" name="cookies" is-config="true" duration-ms="12" started-at="2019-02-07T13:57:37Z" finished-at="2019-02-07T13:57:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cookies -->
+        <test-method status="PASS" signature="UserGeneration()[pri:0, instance:testNGFrameWork.Annotation@48eff760]" name="UserGeneration" is-config="true" duration-ms="0" started-at="2019-02-07T13:57:37Z" finished-at="2019-02-07T13:57:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UserGeneration -->
+        <test-method status="PASS" signature="apenBrowser()[pri:0, instance:testNGFrameWork.Annotation@48eff760]" name="apenBrowser" duration-ms="7" started-at="2019-02-07T13:57:37Z" finished-at="2019-02-07T13:57:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- apenBrowser -->
+        <test-method status="PASS" signature="UserGeneration()[pri:0, instance:testNGFrameWork.Annotation@48eff760]" name="UserGeneration" is-config="true" duration-ms="1" started-at="2019-02-07T13:57:37Z" finished-at="2019-02-07T13:57:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UserGeneration -->
+        <test-method status="PASS" signature="bFlightBooking()[pri:0, instance:testNGFrameWork.Annotation@48eff760]" name="bFlightBooking" duration-ms="6" started-at="2019-02-07T13:57:37Z" finished-at="2019-02-07T13:57:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bFlightBooking -->
+        <test-method status="PASS" signature="cPayment()[pri:0, instance:testNGFrameWork.Annotation@48eff760]" name="cPayment" duration-ms="6" started-at="2019-02-07T13:57:37Z" finished-at="2019-02-07T13:57:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cPayment -->
+        <test-method status="PASS" signature="UserGeneration()[pri:0, instance:testNGFrameWork.Annotation@48eff760]" name="UserGeneration" is-config="true" duration-ms="0" started-at="2019-02-07T13:57:37Z" finished-at="2019-02-07T13:57:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UserGeneration -->
+        <test-method status="PASS" signature="UserGeneration()[pri:0, instance:testNGFrameWork.Annotation@48eff760]" name="UserGeneration" is-config="true" duration-ms="1" started-at="2019-02-07T13:57:37Z" finished-at="2019-02-07T13:57:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UserGeneration -->
+        <test-method status="PASS" signature="dEndTestCase()[pri:0, instance:testNGFrameWork.Annotation@48eff760]" name="dEndTestCase" duration-ms="7" started-at="2019-02-07T13:57:37Z" finished-at="2019-02-07T13:57:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dEndTestCase -->
+        <test-method status="PASS" signature="cookiesclose()[pri:0, instance:testNGFrameWork.Annotation@48eff760]" name="cookiesclose" is-config="true" duration-ms="1" started-at="2019-02-07T13:57:37Z" finished-at="2019-02-07T13:57:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cookiesclose -->
+      </class> <!-- testNGFrameWork.Annotation -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
